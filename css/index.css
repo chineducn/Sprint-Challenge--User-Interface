@@ -104,6 +104,12 @@ header nav a {
     border-bottom: 1px dashed black;
 }
 
+.top-content-about {
+    padding: 20px;
+    margin-bottom: 25px;
+    border-bottom: 1px dotted black;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
