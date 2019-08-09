@@ -217,9 +217,9 @@ footer nav a {
 }
 
 .about-content {
-    padding: 10px;
+    padding: 0 0 20px 20px ;
     margin-bottom: 25px;
-    border-bottom: 1px dotted black;
+    border-bottom: 1px dashed black;
 }
 
 .about-mid-content {
